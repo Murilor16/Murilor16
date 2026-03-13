@@ -12,10 +12,10 @@ Apaixonado por tecnologia, desenvolvimento web e resolução de problemas atrav�
 
 ## 🚀 Sobre mim
 
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas – IFRS**
-- 💻 Foco em **Desenvolvimento Web e Backend**
-- 🌱 Atualmente aprendendo **arquitetura de software e boas práticas**
-- 📫 Contato: **murilor2005@gmail.com**
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas – IFRS**  
+💻 Foco em **Desenvolvimento Web e Backend**  
+🌱 Atualmente aprendendo **arquitetura de software e boas práticas**  
+📫 Contato: **murilor2005@gmail.com**
 
 ---
 
@@ -23,34 +23,32 @@ Apaixonado por tecnologia, desenvolvimento web e resolução de problemas atrav�
 
 ### 💻 Linguagens
 
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,java,php,javascript" />
 </p>
+
+---
 
 ### 🌐 Frontend
 
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
 </p>
+
+---
 
 ### 🗄 Banco de Dados
 
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
 </p>
+
+---
 
 ### ⚙️ Ferramentas
 
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github" />
 </p>
 
 ---
@@ -59,9 +57,9 @@ Apaixonado por tecnologia, desenvolvimento web e resolução de problemas atrav�
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Murilor16&show_icons=true&theme=dracula"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Murilor16&show_icons=true&theme=dracula&hide_border=true"/>
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murilor16&layout=compact&theme=dracula"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murilor16&layout=compact&theme=dracula&hide_border=true"/>
 
 </div>
 
@@ -71,31 +69,39 @@ Apaixonado por tecnologia, desenvolvimento web e resolução de problemas atrav�
 
 Confira meus projetos aqui:
 
-👉 **https://github.com/Murilor16**
+<p align="center">
+<a href="https://github.com/Murilor16">
+<img src="https://img.shields.io/badge/Ver%20Repositórios-GitHub-181717?style=for-the-badge&logo=github">
+</a>
+</p>
 
 Alguns projetos envolvem:
 
-- aplicações web
-- banco de dados
-- lógica de programação
-- experimentos com diferentes tecnologias
+• aplicações web  
+• banco de dados  
+• lógica de programação  
+• experimentos com diferentes tecnologias  
 
 ---
 
 # 🌎 Redes Sociais
 
-<p align="left">
+<p align="center">
 
 <a href="https://instagram.com/murilorodrigues_05">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="30">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
 <a href="https://discord.gg/_murilorodrigues">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" width="30">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 </a>
 
 </p>
 
 ---
 
+<div align="center">
+
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+
+</div>
