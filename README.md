@@ -15,7 +15,7 @@ Apaixonado por tecnologia, desenvolvimento web e resolução de problemas atrav�
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas – IFRS**  
 💻 Foco em **Desenvolvimento Web e Backend**  
 🌱 Atualmente aprendendo **arquitetura de software e boas práticas**  
-📫 Contato: **murilor2005@gmail.com**
+📫 Contato: **murilor2005@gmail.com** <hr>
 📝 Portifólio/Curriculo: **https://murilor16.github.io/CurriculoOnlineMr/**
 
 ---
