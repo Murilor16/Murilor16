@@ -25,7 +25,7 @@ Apaixonado por tecnologia, desenvolvimento web e resolução de problemas atrav�
 ### 💻 Linguagens
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,java,php,javascript" />
+<img src="https://skillicons.dev/icons?i=c,java,php,javascript,typescript" />
 </p>
 
 ---
@@ -33,7 +33,15 @@ Apaixonado por tecnologia, desenvolvimento web e resolução de problemas atrav�
 ### 🌐 Frontend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" />
+</p>
+
+---
+
+### 🖥 Backend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 ---
