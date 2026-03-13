@@ -12,8 +12,9 @@ Apaixonado por tecnologia, desenvolvimento web e resolução de problemas atrav�
 
 ## 🚀 Sobre mim
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas – IFRS**  
-💻 Foco em **Desenvolvimento Web**   
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas – IFRS** <br>
+👤 Linkedin: **https://www.linkedin.com/in/murilo-rodrigues-045b68295/** <br>
+💻 Foco em **Desenvolvimento Web** <br>
 📫 Contato: **murilor2005@gmail.com** <hr>
 📝 Portifólio/Curriculo: **https://murilor16.github.io/CurriculoOnlineMr/**
 
