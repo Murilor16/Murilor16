@@ -16,7 +16,7 @@ Apaixonado por tecnologia, desenvolvimento web e resolução de problemas atrav�
 👤 Linkedin: **https://www.linkedin.com/in/murilo-rodrigues-045b68295/** <br>
 💻 Foco em **Desenvolvimento Web** <br>
 📫 Contato: **murilor2005@gmail.com** <hr>
-📝 Portifólio/Curriculo: **https://murilor16.github.io/CurriculoOnlineMr/**
+📝 Portfólio/Curriculo: **https://murilor16.github.io/CurriculoOnlineMr/**
 
 ---
 
