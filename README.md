@@ -16,6 +16,7 @@ Apaixonado por tecnologia, desenvolvimento web e resolução de problemas atrav�
 💻 Foco em **Desenvolvimento Web e Backend**  
 🌱 Atualmente aprendendo **arquitetura de software e boas práticas**  
 📫 Contato: **murilor2005@gmail.com**
+📝 Portifólio/Curriculo: **https://murilor16.github.io/CurriculoOnlineMr/**
 
 ---
 
