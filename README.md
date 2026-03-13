@@ -2,7 +2,7 @@
 
 <h3 align="center">
 Desenvolvedor em formação • Análise e Desenvolvimento de Sistemas - IFRS
-</h3>
+</h3> 
 
 <p align="center">
 Apaixonado por tecnologia, desenvolvimento web e resolução de problemas através da programação.
