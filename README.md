@@ -14,7 +14,7 @@ Apaixonado por tecnologia, desenvolvimento web e resolução de problemas atrav�
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas – IFRS** <br>
 👤 Linkedin: **https://www.linkedin.com/in/murilo-rodrigues-045b68295/** <br>
-💻 Foco em **Desenvolvimento Web** <br>
+💻  **Desenvolvedor Fullstack na Diario Escola** <br>
 📫 Contato: **murilor2005@gmail.com** <hr>
 📝 Portfólio/Curriculo: **https://murilor16.github.io/CurriculoOnlineMr/**
 
