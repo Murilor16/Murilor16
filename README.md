@@ -1,8 +1,5 @@
 <h1 align="center">Murilo Rodrigues</h1>
 
-<h3 align="center">
-Desenvolvedor em formação • Análise e Desenvolvimento de Sistemas - IFRS
-</h3> 
 
 <p align="center">
 Apaixonado por tecnologia, desenvolvimento web e resolução de problemas através da programação.
